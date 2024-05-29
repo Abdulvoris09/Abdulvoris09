@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mdaminov Abdulvoris</h1>
+<h1 align="center">Hi 👋, I'm Abdulvoris Madaminov</h1>
 <h3 align="center">I'm from Uzbekistan</h3>
 
 - 📫 How to reach me **sherbek40000**
